@@ -32,7 +32,7 @@ register the plugin in the hammer config
 and enjoy
 
 
-```bash
+```
 $ hammer time!
 
                                                                                                
